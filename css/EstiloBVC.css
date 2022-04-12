@@ -244,3 +244,59 @@ body {
 .form-registro a:hover{
     text-decoration-style: underline;
 }
+/*-------CSS CAMY--------*/
+.form-kpop {
+    width: 600px;
+    height: 500px;
+    background: #d692c6;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 7px 13px 37px rgb(214, 174, 174);
+    padding: 20px 30px;
+    border-top: 4px solid #e7cfe1;
+    color: white;
+}
+.form-kpop h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size:  20px;
+}
+.form-kpop p{
+    height: 40px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.form-kpop img{
+    width: 10%;
+    text-align: left;
+    background: #ffffff03;
+}
+.form-kpop a{
+    color: rgb(218, 182, 182);
+    text-decoration: none;
+    font-size: 14px;
+}
+.form-kpop a:hover{
+    text-decoration-style: underline;
+}
+.buttons7 {
+    width: 100%;
+    height: 40px;
+    background: #c282b3;
+    border: none;
+    text-align: center;
+    color: white;
+    margin-bottom: 16px;
+}
+.controls7 {
+    width: 100%;
+    border: 1px solid #7d7d7d;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: #d6d3d3;
+    font-size: 14px;
+    font-weight: bold;
+}
